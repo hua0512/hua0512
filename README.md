@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![hua0512's GitHub stats](https://github.com/hua0512/github-stats/blob/master/generated/overview.svg)
 
 ![Top Langs](https://github.com/hua0512/github-stats/blob/master/generated/languages.svg)

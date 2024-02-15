@@ -1,4 +1,4 @@
-[![hua0512's GitHub stats](github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512)](https://github.com/hua0512/github-readme-stats)
+[![hua0512's GitHub stats](github-readme-stats-x5s5vea82-hua0512.vercel.app/api?username=hua0512)](https://github.com/hua0512/github-readme-stats)
 
 ![hua0512's GitHub stats](https://github.com/hua0512/github-stats/blob/master/generated/overview.svg)
 

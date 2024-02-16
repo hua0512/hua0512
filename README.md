@@ -9,7 +9,7 @@
 ## 💼 Skills
 
 - **Programming languages**:
-    - **I like**: ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
+    - **I know and I like**: ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
     - **I know, but I don't like**: ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
       ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
     - **I barely know**:![C](https://img.shields.io/badge/-C-000?&logo=c)
@@ -21,7 +21,7 @@
       ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
     - **I want to learn**:  ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 - **Frameworks**:
-    - **I like**: ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
+    - **I know and I like**: ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
     - **I know**: ![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
       ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
       ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
@@ -39,16 +39,15 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=dracula&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true"
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=dracula&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true#responsive-card-theme"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs"
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs#responsive-card-theme"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img
-        src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs"
-        alt="hua0512's GitHub Stats"
+        src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs#responsive-card-theme"
     />
 </picture>
 
@@ -56,15 +55,14 @@
 <picture>
 
  <source
-    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA"
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA#responsive-card-theme"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA"
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA#responsive-card-theme"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img
-        src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA
-        alt="hua0512's Top Languages"
+        src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA#responsive-card-theme"
     />
 </picture>

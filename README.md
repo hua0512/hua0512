@@ -28,7 +28,7 @@
     - **I know, but I don't like**:![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=hibernate)
     - **I barely know**: ![React](https://img.shields.io/badge/-React-000?&logo=react)
       ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
-    - ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+      ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 
 ## 📫 How to reach me
 
@@ -37,5 +37,34 @@
 
 ## 📊 GitHub Stats
 
-![hua0512's Github stats](https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs)
-![hua0512's Top Languages](https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=dracula&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img
+        src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs"
+        alt="hua0512's GitHub Stats"
+    />
+</picture>
+
+
+<picture>
+
+ <source
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img
+        src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA
+        alt="hua0512's Top Languages"
+    />
+</picture>

@@ -10,23 +10,22 @@
 
 - **Programming languages**:
     - **I'm familiar with**:
-      ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin) ![Java](https://img.shields.io/badge/-Java-000?&logo=java) ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
-    - **I know a bit**:![C](https://img.shields.io/badge/-C-000?&logo=c)
-      ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
-      ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+      ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin) ![Java](https://img.shields.io/badge/-Java-000?&logo=java) 
+    - **I know a bit**:![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
       ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-      ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
       ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
       ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-    - **I want to learn**:  ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+      ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
+      ![C](https://img.shields.io/badge/-C-000?&logo=c)
+      ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
+      ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+    - **I wanna learn**:  ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 - **Frameworks**:
     - **I'm familiar with'**: ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
     - **I know a bit**: ![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
       ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
       ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
-      ![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=hibernate)
       ![React](https://img.shields.io/badge/-React-000?&logo=react)
-      ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
       ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 
 ## 📫 How to reach me

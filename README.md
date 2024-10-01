@@ -37,23 +37,23 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=dracula&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true#responsive-card-theme"
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=dracula&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs#responsive-card-theme"
+    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img
-        src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs#responsive-card-theme"
+        src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme"
     />
 </picture>
 
 <a href="https://github.com/hua0512#gh-light-mode-only">
-  <img src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/hua0512#gh-dark-mode-only">
-  <img src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 

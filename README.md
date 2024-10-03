@@ -10,7 +10,7 @@
 
 - **Programming languages**:
     - **I'm familiar with**:
-      ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin) ![Java](https://img.shields.io/badge/-Java-000?&logo=java) 
+      ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin) ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
     - **I know a bit**:![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
       ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
       ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
@@ -35,25 +35,17 @@
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=dracula&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-    <img
-        src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme"
-    />
-</picture>
-
-<a href="https://github.com/hua0512#gh-light-mode-only">
-  <img src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/hua0512#gh-dark-mode-only">
-  <img src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ADA-1,DBCS,DIS,p2ada,Practica-ADA,AOC-FULL,FCOMP,POO,EDA#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
-
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/hua0512#gh-dark-mode-only">
+    <img src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=dracula&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme#gh-dark-mode-only" alt="My GitHub Stats" />
+  </a>
+  <a href="https://github.com/hua0512#gh-light-mode-only">
+    <img src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme#gh-light-mode-only" alt="My GitHub Stats" />
+  </a>
+ <a href="https://github.com/hua0512#gh-light-mode-only">
+    <img src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only" alt="My GitHub Stats" />
+  </a>
+  <a href="https://github.com/hua0512#gh-dark-mode-only">
+    <img src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only" alt="My GitHub Stats" />
+  </a>
+</div>

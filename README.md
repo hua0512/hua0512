@@ -2,9 +2,8 @@
 
 - 😄 Self-taught Android Developer.
 - 💖 Love **Open Source** and **Free Software**.
-- 📫 Grew up in **Spain**, currently living in **Valladolid**
+- 📫 Living in **Spain**
 - 🌐 Speaking **Spanish**(Native), **Chinese**(Native), and **English**.
-- 💬 Ask me about **Kotlin**, **Java**, **Android**, **Software Engineering**.
 
 ## 💼 Skills
 
@@ -15,11 +14,12 @@
       ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
       ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
       ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+      ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
       ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
       ![C](https://img.shields.io/badge/-C-000?&logo=c)
       ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
       ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-    - **I wanna learn**:  ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+      
 - **Frameworks**:
     - **I'm familiar with'**: ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
     - **I know a bit**: ![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
@@ -37,10 +37,10 @@
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/hua0512#gh-dark-mode-only">
-    <img src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=dracula&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme#gh-dark-mode-only" alt="My GitHub Stats" />
+    <img src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=dracula&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only" alt="My GitHub Stats" />
   </a>
   <a href="https://github.com/hua0512#gh-light-mode-only">
-    <img src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#responsive-card-theme#gh-light-mode-only" alt="My GitHub Stats" />
+    <img src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=hua0512&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only" alt="My GitHub Stats" />
   </a>
  <a href="https://github.com/hua0512#gh-light-mode-only">
     <img src="https://github-readme-stats-gamma-five-15.vercel.app/api/top-langs/?username=hua0512&theme=catppuccin_latte&layout=compact&size_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only" alt="My GitHub Stats" />
